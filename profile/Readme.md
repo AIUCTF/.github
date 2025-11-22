@@ -7,22 +7,12 @@
   <br/>
   <br/>
 
-  <a href="https://linktr.ee/AIUCTF">
-    <img src="https://img.shields.io/badge/REGISTER-Join%20Us-success?style=for-the-badge&logo=linktree" alt="Register" />
-  </a>
-  <br/> 
-  <a href="https://www.linkedin.com/company/aiu-ctf">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@AIUCTF">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/aiuctf/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/people/AIU-CTF-Community/61584014913536/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="https://linktr.ee/AIUCTF"><img src="https://img.shields.io/badge/REGISTER-Join%20Us-success?style=for-the-badge&logo=linktree" alt="Register"/></a>
+    <br/>
+<a href="https://www.linkedin.com/company/aiu-ctf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@AIUCTF"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/aiuctf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/people/AIU-CTF-Community/61584014913536/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </div>
 
 ---
